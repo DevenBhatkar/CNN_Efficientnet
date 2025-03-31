@@ -1,0 +1,23 @@
+==================================================
+ANALYSIS FOR: train_spectrograms\1000381196.parquet
+PREDICTION: GRDA
+==================================================
+Confidence: 99.23%
+
+DESCRIPTION:
+Rhythmic delta activity occurring synchronously across both hemispheres.
+
+MEDICAL IMPLICATIONS:
+Often seen in metabolic encephalopathy, medication effects, or after seizures.
+
+CHARACTERISTICS:
+Continuous rhythmic delta waves (1-3 Hz) generalized across the brain.
+
+PROBABILITIES:
+Seizure: 0.00%
+GPD: 0.02%
+LRDA: 0.00%
+Other: 0.75%
+GRDA: 99.23%
+LPD: 0.00%
+==================================================
